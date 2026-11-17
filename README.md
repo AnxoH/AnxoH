@@ -16,6 +16,8 @@ My work focuses on designing AI-driven workflows, robust data pipelines, and int
 *   **Core Concepts:** Stochastic Calculus, Derivatives Pricing (Black-Scholes), Time Series Analysis (ARIMA, Prophet)
 
 ### 🚀 Featured Projects
+*   📊 [**BME Trading Contest Algorithm**](https://github.com/AnxoH/bme-contest) - Engineered and backtested mean-reverting (Z-score) and range compression quantitative algorithms on IBEX 35 equities for Instituto BME's "El Concurso de Bolsa".
+*   💼 [**Inditex LBO Model**](https://github.com/AnxoH/inditexlbo) - Structured leveraged buyout scenario analysis, integrating debt capacity covenants, preferred equity tranches, PIK notes, and rollover equity dynamics.
 *   📈 [**Hybrid Real Estate Valuation Model**](https://github.com/AnxoH/multimodal-real-estate-valuation-model) - Fused OpenAI CLIP zero-shot image embeddings with XGBoost on tabular data.
 *   🔭 [**Adaptive Optics Wavefront Reconstruction**](https://anxoh.github.io/projects/adaptive-optics/) - Benchmarked Neural Networks (MLP, FCN) against classical least-squares estimators.
 *   ⚡ [**Intraday Electricity Price Modeling**](https://anxoh.github.io/projects/electricity-price/) - Engineered rolling variance features to capture market microstructure signals.

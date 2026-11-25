@@ -1,8 +1,7 @@
 # Hi there, I'm Anxo Herrera 👋
 
-**Quantitative Analyst & Engineer | Math & Physics | Financial Engineering**
+**Finance & Quantitative Analysis | Math & Physics | Financial Engineering**
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-anxoh.github.io-10B981?style=for-the-badge&logo=google-chrome&logoColor=white)](https://anxoh.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anxoherrera) 
 
 With a rigorous STEM foundation in Mathematics and Physics and a Master's in Financial Engineering, I am actively building a career in quantitative finance. Drawing from my experience in Corporate & Investment Banking (CIB), I specialize in bridging the gap between advanced mathematical theory and scalable technology. 
